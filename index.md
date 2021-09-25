@@ -35,4 +35,4 @@ Some of my **goals** for 2021 are
 - [x] Learn a programming language
 - [ ] Get a job/intership
 
-To re-read about me [section link](https://samanthaylin3.github.io/samanthalin/#about-me)
+To re-read about me [section link to About Me](https://samanthaylin3.github.io/samanthalin/#about-me)
